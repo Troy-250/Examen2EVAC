@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A001",
+    "direccion": "Calle Mayor 12, 2ºB, 28013 Madrid",
+    "propietario": "Inmobiliaria Central",
+    "precio": "1.200€/mes",
+    "disponible": true
+  },
+  {
+    "id": "A002",
+    "direccion": "Avenida del Mar 45, 4º, 46011 Valencia",
+    "propietario": "Mar & Hogar SL",
+    "precio": "900€/mes",
+    "disponible": false
+  },
+  {
+    "id": "A003",
+    "direccion": "Carrer del Parc 7, 1º, 08007 Barcelona",
+    "propietario": "Particular: Laura Gómez",
+    "precio": "700€/mes",
+    "disponible": true
+  },
+  {
+    "id": "A004",
+    "direccion": "Plaza Nueva 3, Bajo, 41004 Sevilla",
+    "propietario": "Heredero Pérez",
+    "precio": "1.200€/mes",
+    "disponible": true
+  },
+  {
+    "id": "A005",
+    "direccion": "Ronda del Lago 21, 3º, 48009 Bilbao",
+    "propietario": "Gestión Inmo Norte",
+    "precio": "950€/mes Permanencia 12 meses",
+    "disponible": false
+  },
+  {
+    "id": "A006",
+    "direccion": "Calle Rosal 10, 1º, 29001 Málaga",
+    "propietario": "Propietario: Juan Ruiz",
+    "precio": "600€/mes",
+    "disponible": true
+  }
+]
