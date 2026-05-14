@@ -35,7 +35,7 @@ public class ApartamentoRepository {
             List<Apartamento> list = GsonFactory.getGson().fromJson(json, listType);
             if (list != null) apartamentos = list;
         } catch (IOException e) {
-            System.err.println(" Error cargando coches: " + e.getMessage());
+            System.err.println("Error cargando coches: " + e.getMessage());
         }
     }
 
